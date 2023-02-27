@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: radial-gradient(rgb(255, 169, 169), rgb(255, 235, 199), rgb(248, 186, 196));
+    font-family: cursive;
+}
+.container{
+    width: 98vw;
+    height: 98vh;
+}
+.input{
+    border: none;
+    width: 300px;
+    border-bottom: 1px solid grey;
+}
+.btn{
+    border: none;
+    width: 100px;
+    height: 25px;
+    margin-left: 20px;
+    background-color: rgb(95, 95, 230);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.ul{
+    text-align: left;
+}
